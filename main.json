@@ -77,7 +77,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitLayer",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"aumuehle\/aumuehle.json"
                 }],
