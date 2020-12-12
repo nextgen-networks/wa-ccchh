@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
  <editorsettings>
-  <export target="aumuehle.json" format="json"/>
+  <export target="fux.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" source="../cija_expansion.tsx"/>
- <layer id="1" name="ground" width="32" height="32" visible="0">
+ <layer id="1" name="ground" width="32" height="32">
   <data encoding="csv">
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
@@ -40,7 +40,7 @@
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 </data>
  </layer>
- <objectgroup id="2" name="floorLayer" visible="0"/>
+ <objectgroup id="2" name="floorLayer"/>
  <layer id="3" name="startLayer" width="32" height="32">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
@@ -80,9 +80,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="4" name="hamburgExit" width="32" height="32" visible="0">
+ <layer id="4" name="hamburgExit" width="32" height="32">
   <properties>
-   <property name="exitUrl" value="../main.json#aumuehleStart"/>
+   <property name="exitUrl" value="../main.json#fuxStart"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"aumuehle.json"
+         "target":"kampnagel.json"
         }
     },
  "height":32,
@@ -17,7 +17,7 @@
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -29,7 +29,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -61,10 +61,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#aumuehleStart"
+                 "value":"..\/main.json#kampnagelStart"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
