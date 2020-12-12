@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"aumuehle\/aumuehle.json"
+                 "value":"aumuehle\/aumuehle.json#startLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
