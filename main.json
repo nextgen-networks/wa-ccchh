@@ -205,7 +205,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"stubnitz\/stubnis.json#startLayer"
+                 "value":"stubnitz\/stubnitz.json#startLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
