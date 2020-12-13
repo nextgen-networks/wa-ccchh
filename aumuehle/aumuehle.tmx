@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="73" height="42" tilewidth="32" tileheight="32" infinite="1" nextlayerid="9" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="73" height="42" tilewidth="32" tileheight="32" infinite="1" nextlayerid="10" nextobjectid="1">
  <editorsettings>
   <export target="aumuehle.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" source="../Aumuehle_Tiles.tsx"/>
  <tileset firstgid="101" source="../cija_expansion.tsx"/>
- <layer id="6" name="exitURL" width="73" height="42">
+ <layer id="6" name="exitURL" width="73" height="42" visible="0">
   <properties>
    <property name="exitUrl" value="../main.json#aumuehleStart"/>
   </properties>
@@ -48,7 +48,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="7" name="Website VVM" width="73" height="42">
+ <layer id="7" name="Website VVM" width="73" height="42" visible="0">
   <properties>
    <property name="openWebsite" value="https://www.vvm-museumsbahn.de"/>
   </properties>
@@ -73,7 +73,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="1" name="ground" width="73" height="42">
+ <layer id="1" name="ground" width="73" height="42" visible="0">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
 101,101,101,103,103,103,106,106,106,106,106,106,106,106,106,106,
@@ -347,8 +347,8 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="8" name="floorLayer"/>
- <layer id="5" name="startLayer" width="73" height="42">
+ <objectgroup id="8" name="floorLayer" visible="0"/>
+ <layer id="5" name="startLayer" width="73" height="42" visible="0">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
   </properties>
@@ -391,7 +391,32 @@
 </chunk>
   </data>
  </layer>
- <layer id="2" name="Gebäude" width="73" height="42">
+ <layer id="9" name="start" width="73" height="42">
+  <properties>
+   <property name="startLayer" type="bool" value="true"/>
+  </properties>
+  <data encoding="csv">
+   <chunk x="32" y="16" width="16" height="16">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,660,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</chunk>
+  </data>
+ </layer>
+ <layer id="2" name="Gebäude" width="73" height="42" visible="0">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -611,7 +636,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="3" name="Fenster" width="73" height="42">
+ <layer id="3" name="Fenster" width="73" height="42" visible="0">
   <data encoding="csv">
    <chunk x="16" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -669,7 +694,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="4" name="Bäume" width="73" height="42">
+ <layer id="4" name="Bäume" width="73" height="42" visible="0">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
