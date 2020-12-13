@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="73" height="42" tilewidth="32" tileheight="32" infinite="1" nextlayerid="8" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="73" height="42" tilewidth="32" tileheight="32" infinite="1" nextlayerid="9" nextobjectid="1">
+ <editorsettings>
+  <export target="aumuehle.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" source="../Aumuehle_Tiles.tsx"/>
  <tileset firstgid="101" source="../cija_expansion.tsx"/>
  <layer id="5" name="startLayer" width="73" height="42">
@@ -113,7 +116,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="1" name="floorLayer" width="73" height="42" visible="0">
+ <layer id="1" name="ground" width="73" height="42">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
 101,101,101,103,103,103,106,106,106,106,106,106,106,106,106,106,
@@ -387,6 +390,7 @@
 </chunk>
   </data>
  </layer>
+ <objectgroup id="8" name="floorLayer"/>
  <layer id="2" name="Gebäude" width="73" height="42">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
