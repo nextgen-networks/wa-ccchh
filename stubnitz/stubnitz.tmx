@@ -192,7 +192,7 @@
    <image width="32" height="32" source="../tiles/pixel-32x32-bullauge.png"/>
   </tile>
   <tile id="69">
-   <image width="32" height="32" source="../tiles/pixel-32x32-pöller.png"/>
+   <image width="32" height="32" source="../tiles/pixel-32x32-poeller.png"/>
    <objectgroup draworder="index">
     <object id="1" x="6.90909" y="24.3636">
      <polygon points="0,0 18.9091,0 15.0909,-6.72727 18.3636,-10.1818 17.4545,-15.2727 14.5455,-18.5455 4,-18.1818 0.545455,-15.2727 0.363636,-9.27273 3.09091,-6"/>
