@@ -87,7 +87,7 @@
    <image width="32" height="32" source="../tiles/11_safety_cone.png"/>
   </tile>
   <tile id="28">
-   <image width="32" height="32" source="../tiles/12_löschdecke_32x32.png"/>
+   <image width="32" height="32" source="../tiles/12_loeschdecke_32x32.png"/>
   </tile>
   <tile id="29">
    <image width="32" height="32" source="../tiles/12_telephone_upright.png"/>
