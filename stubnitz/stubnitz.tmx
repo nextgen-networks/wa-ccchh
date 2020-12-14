@@ -41,7 +41,7 @@
 </data>
  </layer>
  <objectgroup id="2" name="floorLayer"/>
- <layer id="3" name="startLayer" width="32" height="32">
+ <layer id="3" name="start" width="32" height="32">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
   </properties>
