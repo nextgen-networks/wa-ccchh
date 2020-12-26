@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#Start"
+                 "value":"..\/main.json#CCChoirStart"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -120,7 +120,7 @@
  </layer>
  <layer id="4" name="hamburgExit" width="32" height="50">
   <properties>
-   <property name="exitUrl" value="../main.json#Start"/>
+   <property name="exitUrl" value="../main.json#cryptopartyStart"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
