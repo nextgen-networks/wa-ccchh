@@ -272,7 +272,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_ccc-hh}\n"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_ccc-hh}"
                 }],
          "type":"tilelayer",
          "visible":true,

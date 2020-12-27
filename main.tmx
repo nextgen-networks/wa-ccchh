@@ -1759,8 +1759,7 @@
  </layer>
  <layer id="15" name="lobbyExit" width="128" height="118" locked="1">
   <properties>
-   <property name="exitUrl">{&lt;lobby&gt;/erfas-spaces-north.json#start_ccc-hh}
-</property>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/erfas-spaces-north.json#start_ccc-hh}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
