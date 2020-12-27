@@ -8,6 +8,12 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -155,7 +161,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"chaosknoten\/cija_32x32_expansion-for-Pipoya_CC0.png",
+         "image":"cija_32x32_expansion-for-Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -168,7 +174,7 @@
         {
          "columns":6,
          "firstgid":1996,
-         "image":"chaosknoten\/Water+.png",
+         "image":"Water+.png",
          "imageheight":224,
          "imagewidth":192,
          "margin":0,
@@ -191,7 +197,7 @@
         {
          "columns":3,
          "firstgid":2038,
-         "image":"Hamburg-Pixelkarte-Transparent.png",
+         "image":"..\/Hamburg-Pixelkarte-Transparent.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -204,7 +210,7 @@
         {
          "columns":15,
          "firstgid":2047,
-         "image":"cija_32x32_expansion-for-Pipoya_CC0.png",
+         "image":"..\/cija_32x32_expansion-for-Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
