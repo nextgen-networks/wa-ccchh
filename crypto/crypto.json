@@ -157,8 +157,17 @@
          "source":"..\/cija_expansion.tsx"
         }, 
         {
+         "columns":16,
          "firstgid":1996,
-         "source":"..\/Hamburg_Tiles.tsx"
+         "image":"..\/Hamburg_Tiles.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Hamburg_Tiles",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":2124,
