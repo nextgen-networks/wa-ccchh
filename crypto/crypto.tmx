@@ -3,12 +3,23 @@
  <editorsettings>
   <export target="crypto.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" source="../cija_expansion.tsx"/>
+ <tileset firstgid="1" name="cija_expansion" tilewidth="32" tileheight="32" tilecount="1995" columns="15">
+  <image source="../cija_32x32_expansion-for-Pipoya_CC0.png" width="480" height="4256"/>
+ </tileset>
  <tileset firstgid="1996" name="Hamburg_Tiles" tilewidth="32" tileheight="32" tilecount="128" columns="16">
   <image source="../Hamburg_Tiles.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="2124" source="Hamburg-Pixelkarte-Transparent.tsx"/>
- <tileset firstgid="2133" source="crypto_tiles.tsx"/>
+ <tileset firstgid="2124" name="Hamburg-Pixelkarte-Transparent" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="../Hamburg-Pixelkarte-Transparent.png" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="2133" name="crypto_tiles" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <image source="crypto_tiles.png" width="320" height="320"/>
+  <tile id="0">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
  <layer id="3" name="start" width="32" height="50">
   <properties>
    <property name="startLayer" type="bool" value="true"/>

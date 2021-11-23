@@ -153,8 +153,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":15,
          "firstgid":1,
-         "source":"..\/cija_expansion.tsx"
+         "image":"..\/cija_32x32_expansion-for-Pipoya_CC0.png",
+         "imageheight":4256,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija_expansion",
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -170,12 +179,40 @@
          "tilewidth":32
         }, 
         {
+         "columns":3,
          "firstgid":2124,
-         "source":"Hamburg-Pixelkarte-Transparent.tsx"
+         "image":"..\/Hamburg-Pixelkarte-Transparent.png",
+         "imageheight":96,
+         "imagewidth":96,
+         "margin":0,
+         "name":"Hamburg-Pixelkarte-Transparent",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":2133,
-         "source":"crypto_tiles.tsx"
+         "image":"crypto_tiles.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"crypto_tiles",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
