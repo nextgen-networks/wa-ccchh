@@ -3,9 +3,7 @@
  <editorsettings>
   <export target="retroCave1.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" name="shamus" tilewidth="32" tileheight="32" tilecount="1400" columns="50">
-  <image source="shamus.png" width="1600" height="900"/>
- </tileset>
+ <tileset firstgid="1" source="retroCave1.tsx"/>
  <layer id="7" name="go2main" width="50" height="30">
   <properties>
    <property name="exitUrl" value="../main.json#end4retroCave"/>

@@ -71,11 +71,11 @@
         {
          "columns":50,
          "firstgid":1,
-         "image":"shamus.png",
+         "image":"retroCave1.png",
          "imageheight":900,
          "imagewidth":1600,
          "margin":0,
-         "name":"shamus",
+         "name":"retroCave1",
          "spacing":0,
          "tilecount":1400,
          "tileheight":32,
