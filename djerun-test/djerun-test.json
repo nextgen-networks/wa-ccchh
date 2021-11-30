@@ -268,14 +268,11 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
+         "columns":8,
          "firstgid":394,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
+         "image":"animated_tile_neon_pink_circle\/frames.png",
+         "imageheight":32,
+         "imagewidth":256,
          "margin":0,
          "name":"pulsing_circle_neon_pink",
          "spacing":0,
@@ -316,52 +313,7 @@
                          "duration":200,
                          "tileid":7
                         }],
-                 "id":0,
-                 "image":"animated_tile_neon_pink_circle\/frame0000.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":1,
-                 "image":"animated_tile_neon_pink_circle\/frame0001.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":2,
-                 "image":"animated_tile_neon_pink_circle\/frame0002.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":3,
-                 "image":"animated_tile_neon_pink_circle\/frame0003.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":4,
-                 "image":"animated_tile_neon_pink_circle\/frame0004.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":5,
-                 "image":"animated_tile_neon_pink_circle\/frame0005.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":6,
-                 "image":"animated_tile_neon_pink_circle\/frame0006.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
-                 "id":7,
-                 "image":"animated_tile_neon_pink_circle\/frame0007.png",
-                 "imageheight":32,
-                 "imagewidth":32
+                 "id":0
                 }],
          "tilewidth":32
         }],

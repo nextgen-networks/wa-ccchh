@@ -29,43 +29,7 @@
  <tileset firstgid="330" name="cyan_lines" tilewidth="32" tileheight="32" tilecount="64" columns="8">
   <image source="tiles_neon_cyan_ground_lines.png" width="256" height="256"/>
  </tileset>
- <tileset firstgid="394" name="pulsing_circle_neon_pink" tilewidth="32" tileheight="32" tilecount="8" columns="0">
-  <grid orientation="orthogonal" width="1" height="1"/>
-  <tile id="0">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0000.png"/>
-   <animation>
-    <frame tileid="0" duration="400"/>
-    <frame tileid="1" duration="200"/>
-    <frame tileid="2" duration="100"/>
-    <frame tileid="3" duration="200"/>
-    <frame tileid="4" duration="400"/>
-    <frame tileid="5" duration="200"/>
-    <frame tileid="6" duration="100"/>
-    <frame tileid="7" duration="200"/>
-   </animation>
-  </tile>
-  <tile id="1">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0001.png"/>
-  </tile>
-  <tile id="2">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0002.png"/>
-  </tile>
-  <tile id="3">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0003.png"/>
-  </tile>
-  <tile id="4">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0004.png"/>
-  </tile>
-  <tile id="5">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0005.png"/>
-  </tile>
-  <tile id="6">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0006.png"/>
-  </tile>
-  <tile id="7">
-   <image width="32" height="32" source="animated_tile_neon_pink_circle/frame0007.png"/>
-  </tile>
- </tileset>
+ <tileset firstgid="394" source="pulsing_circle_neon_pink.tsx"/>
  <layer id="11" name="collision" width="32" height="32" visible="0" locked="1">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,71,71,0,0,71,71,0,0,0,0,0,0,0,0,0,0,0,0,0,
