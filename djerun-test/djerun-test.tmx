@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
+ <editorsettings>
+  <export target="djerun-test.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="pink_lines" tilewidth="32" tileheight="32" tilecount="64" columns="8">
   <image source="tiles_neon_pink_ground_lines.png" width="256" height="256"/>
  </tileset>
@@ -100,6 +103,9 @@
 </data>
  </layer>
  <layer id="1" name="start" width="32" height="32" locked="1">
+  <properties>
+   <property name="startLayer" type="bool" value="true"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -136,6 +142,9 @@
 </data>
  </layer>
  <layer id="6" name="exitTop" width="32" height="32" locked="1">
+  <properties>
+   <property name="exitUrl" value="../main.json#northStart"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -172,6 +181,9 @@
 </data>
  </layer>
  <layer id="9" name="exitRight" width="32" height="32" locked="1">
+  <properties>
+   <property name="exitUrl" value="../main.json#eastStart"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -208,6 +220,9 @@
 </data>
  </layer>
  <layer id="8" name="exitLeft" width="32" height="32" locked="1">
+  <properties>
+   <property name="exitUrl" value="../main.json#westStart"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -244,6 +259,9 @@
 </data>
  </layer>
  <layer id="7" name="exitBottom" width="32" height="32" locked="1">
+  <properties>
+   <property name="exitUrl" value="../main.json#southStart"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
