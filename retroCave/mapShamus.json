@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"shamus.json"
+                 "value":"#start"
                 }],
          "type":"tilelayer",
          "visible":true,
