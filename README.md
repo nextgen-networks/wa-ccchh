@@ -6,4 +6,4 @@ See the [rC3 World Howto](https://howto.rc3.world).
 
 The [Starter Kit](https://github.com/thecodingmachine/workadventure-map-starter-kit) might be helpful.
 
-Test URL: https://wa.tabascoeye.de/_/global/rc3-world-hh.zs64.net/main.json
+Test URL: https://party.tabascoeye.de/_/global/rc3-world-hh.zs64.net/main.json
