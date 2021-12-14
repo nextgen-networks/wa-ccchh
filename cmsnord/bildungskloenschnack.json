@@ -120,7 +120,7 @@
                 {
                  "name":"exiturl",
                  "type":"string",
-                 "value":"...\/main.json#cmsstart"
+                 "value":"..\/main.json#cmsstart"
                 }],
          "type":"tilelayer",
          "visible":true,
