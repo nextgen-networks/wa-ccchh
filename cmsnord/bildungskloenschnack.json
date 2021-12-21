@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"bildungskloenschnack.json"
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -220,7 +228,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main-21.json#start_cmsnord"
+                 "value":"..\/main.json#start_cmsnord"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -285,7 +293,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -299,16 +307,6 @@
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":544,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -326,6 +324,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":32
 }
