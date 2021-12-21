@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" backgroundcolor="#c1fff5" nextlayerid="11" nextobjectid="1">
+ <editorsettings>
+  <export target="main-21.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" source="hamburgkarte.tsx"/>
  <tileset firstgid="1025" source="Hamburg_Tiles.tsx"/>
  <tileset firstgid="1153" source="cmsnord/cmsnord.tsx"/>
@@ -334,5 +337,5 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <objectgroup id="7" name="floorLayer" visible="0"/>
+ <objectgroup id="7" name="floorLayer"/>
 </map>
