@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#start"
+                 "value":"mapHallOfLostBonusLifes_Shamus.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/mapHallOfLostBonusLifes_Shamus.json"
+                 "value":"mapHallOfLostBonusLifes_Shamus.json"
                 }],
          "type":"tilelayer",
          "visible":true,
