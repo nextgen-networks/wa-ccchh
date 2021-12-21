@@ -1,0 +1,9 @@
+# The following licences apply to the files in this directory
+- licence: "CC-By-SA 4.0"
+  fullname: ""
+  url: ""
+  files:
+    - path: ./VCR_Overlay.kra
+      author: djerun
+    - path: ./VCR_Overlay.png
+      author: djerun
