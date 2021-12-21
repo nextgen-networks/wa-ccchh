@@ -162,6 +162,12 @@
  "nextlayerid":12,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"author: djerun\nlicence: CC BY-SA 4.0"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
@@ -174,6 +180,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pink_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -187,6 +199,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"tiles_neon_dither",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -210,6 +228,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"orange_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -223,6 +247,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"yellow_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -236,6 +266,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"green_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -249,6 +285,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"red_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -262,6 +304,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"cyan_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -275,6 +323,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pulsing_circle_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -325,6 +379,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pulsing_line_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -375,6 +435,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pulsing_corner_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -425,6 +491,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pulsing_dot_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -475,6 +547,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"pulsing_corner_90_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -525,6 +603,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pulsing_corner_180_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -575,6 +659,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"pulsing_corner_270_neon_pink",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,

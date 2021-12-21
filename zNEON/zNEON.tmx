@@ -3,23 +3,14 @@
  <editorsettings>
   <export target="zNEON.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" name="pink_lines" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="tiles_neon_pink_ground_lines.png" width="256" height="256"/>
- </tileset>
- <tileset firstgid="65" name="tiles_neon_dither" tilewidth="32" tileheight="32" tilecount="9" columns="3">
-  <image source="tiles_neon_dither.png" width="96" height="96"/>
-  <tile id="6">
-   <properties>
-    <property name="collides" type="bool" value="true"/>
-   </properties>
-  </tile>
- </tileset>
- <tileset firstgid="74" name="green_lines" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="tiles_neon_green_ground_lines.png" width="256" height="256"/>
- </tileset>
- <tileset firstgid="138" name="cyan_lines" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="tiles_neon_cyan_ground_lines.png" width="256" height="256"/>
- </tileset>
+ <properties>
+  <property name="mapCopyright">author: djerun
+licence: CC BY-SA 4.0</property>
+ </properties>
+ <tileset firstgid="1" source="pink_lines.tsx"/>
+ <tileset firstgid="65" source="tiles_neon_dither.tsx"/>
+ <tileset firstgid="74" source="green_lines.tsx"/>
+ <tileset firstgid="138" source="cyan_lines.tsx"/>
  <tileset firstgid="202" name="worldExit" tilewidth="32" tileheight="32" tilecount="4" columns="2">
   <image source="../worldExit.png" width="64" height="64"/>
  </tileset>
