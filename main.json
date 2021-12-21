@@ -1,5 +1,13 @@
 { "backgroundcolor":"#c1fff5",
  "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"main.json"
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -87,6 +95,12 @@
          "id":3,
          "name":"door_aumuehle",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"aumuehle\/aumuehle.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -168,7 +182,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -225,6 +239,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":32
 }
