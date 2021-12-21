@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"mapHallOfLostBonusLifes_Shamus.json"
                 }],
          "type":"tilelayer",
          "visible":true,
