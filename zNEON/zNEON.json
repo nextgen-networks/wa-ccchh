@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#z9Start"
+                 "value":"..\/main.json#start_fux"
                 }],
          "type":"tilelayer",
          "visible":true,
