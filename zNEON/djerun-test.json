@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#northStart"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#eastStart"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#westStart"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -116,7 +116,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#southStart"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
