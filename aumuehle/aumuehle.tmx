@@ -11,7 +11,7 @@
  <tileset firstgid="2096" source="../ccchoir/Hamburg-Pixelkarte-Transparent.tsx"/>
  <layer id="6" name="exitURL" width="91" height="42">
   <properties>
-   <property name="exitUrl" value="../main.json#aumuehleStart"/>
+   <property name="exitUrl" value="../main.json#start_aumuehle"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,645,645,645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
