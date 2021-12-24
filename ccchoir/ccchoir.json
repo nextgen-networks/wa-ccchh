@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#CCChoirStart"
+                 "value":"..\/main.json#start_ccchoir"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,6 +156,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_expansion",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,

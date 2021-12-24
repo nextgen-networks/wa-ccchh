@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="32" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
  <editorsettings>
   <export target="crypto.json" format="json"/>
  </editorsettings>
@@ -133,7 +133,7 @@
  </layer>
  <layer id="4" name="hamburgExit" width="32" height="50">
   <properties>
-   <property name="exitUrl" value="../main.json#cryptopartyStart"/>
+   <property name="exitUrl" value="../main.json#start_cryptoparty"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
