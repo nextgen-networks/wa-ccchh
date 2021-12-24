@@ -1,5 +1,13 @@
 { "backgroundcolor":"#c1fff5",
  "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"main.json"
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
