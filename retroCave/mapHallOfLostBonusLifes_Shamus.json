@@ -70,17 +70,6 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"licence: \"CC BY-SA 4.0\" \/\/ author: LYNX"
-        }, 
-        {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"source: https:\/\/pixabay.com\/de\/photos\/tunnel-licht-grimmig-dunkel-kunst-6786462\/ \/\/ licence: https:\/\/pixabay.com\/de\/service\/license\/"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

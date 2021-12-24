@@ -124,17 +124,6 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"licence: \"CC BY-SA 4.0\" \/\/ author: LYNX"
-        }, 
-        {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"source: https:\/\/www.c64-wiki.de\/index.php?title=Datei:Shamusbeginning.png \/\/ licence: http:\/\/www.gnu.org\/licenses\/fdl-1.3.html"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
