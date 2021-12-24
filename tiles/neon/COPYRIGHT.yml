@@ -1,0 +1,19 @@
+# The following licences apply to the files in this directory
+- licence: "CC BY-SA 4.0"
+  fullname: "Attribution-ShareAlike 4.0 International"
+  url: "https://creativecommons.org/licenses/by-sa/4.0/"
+  files:
+    - path: ./neon_area_markers.kra
+      author: djerun
+    - path: ./neon_area_markers_cyan.png
+      author: djerun
+    - path: ./neon_area_markers_green.png
+      author: djerun
+    - path: ./neon_area_markers_orange.png
+      author: djerun
+    - path: ./neon_area_markers_pink.png
+      author: djerun
+    - path: ./neon_area_markers_red.png
+      author: djerun
+    - path: ./neon_area_markers_yellow.png
+      author: djerun
