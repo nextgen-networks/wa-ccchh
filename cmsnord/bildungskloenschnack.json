@@ -106,7 +106,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"workshop"
+                 "value":"bbb://cmsnord/workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
