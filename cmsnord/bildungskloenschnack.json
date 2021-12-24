@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"bildungskloenschnack.json"
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -45,14 +53,14 @@
                  "value":"kleingruppenraum"
                 }, 
                 {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Dr\u00fccke die Leertaste, um am Jitsi f\u00fcr alle Gruppentische teilzunehmen."
-                }, 
-                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke die Leertaste, um am Jitsi f\u00fcr alle Gruppentische teilzunehmen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -106,7 +114,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"bbb://cmsnord/workshop"
+                 "value":"bbb:\/\/cmsnord\/workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -285,7 +293,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -296,19 +304,15 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_expansion",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":544,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -319,6 +323,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -349,6 +359,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":32
 }

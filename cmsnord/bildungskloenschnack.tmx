@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="20" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="20" nextobjectid="1">
  <editorsettings>
   <export target="bildungskloenschnack.json" format="json"/>
  </editorsettings>
@@ -84,8 +84,8 @@
  <layer id="16" name="jitsi-1" width="32" height="32">
   <properties>
    <property name="jitsiRoom" value="kleingruppenraum"/>
-   <property name="jitsiTriggerMessage" value="Drücke die Leertaste, um am Jitsi für alle Gruppentische teilzunehmen."/>
    <property name="jitsiTrigger" value="onaction"/>
+   <property name="jitsiTriggerMessage" value="Drücke die Leertaste, um am Jitsi für alle Gruppentische teilzunehmen."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -202,7 +202,7 @@
  </layer>
  <layer id="19" name="bbb" width="32" height="32">
   <properties>
-  <property name="bbbRoom" value="bbb://cmsnord/workshop"/>
+   <property name="bbbRoom" value="bbb://cmsnord/workshop"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
