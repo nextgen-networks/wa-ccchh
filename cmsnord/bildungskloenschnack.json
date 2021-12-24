@@ -45,7 +45,7 @@
                  "value":"kleingruppenraum"
                 }, 
                 {
-                 "name":"jitsiTiggerMessage",
+                 "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Dr\u00fccke die Leertaste, um am Jitsi f\u00fcr alle Gruppentische teilzunehmen."
                 }, 

@@ -84,7 +84,7 @@
  <layer id="16" name="jitsi-1" width="32" height="32">
   <properties>
    <property name="jitsiRoom" value="kleingruppenraum"/>
-   <property name="jitsiTiggerMessage" value="Drücke die Leertaste, um am Jitsi für alle Gruppentische teilzunehmen."/>
+   <property name="jitsiTriggerMessage" value="Drücke die Leertaste, um am Jitsi für alle Gruppentische teilzunehmen."/>
    <property name="jitsiTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
