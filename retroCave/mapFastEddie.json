@@ -206,6 +206,12 @@
  "nextlayerid":15,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"Trademarks & logos belong to their respective owners \u2013 here \"Sirius Software\u201c (tm) \u2013 has not existed since 1984"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
