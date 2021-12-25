@@ -133,7 +133,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"map is part of subproject \"retroCave\" of project \"Hamburg map\" while #rc3-2021"
+         "value":"this map is part of subproject \"retroCave\" of project \"Hamburg@rc3-World\" now/here #rc3-2021"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/wiki.hamburg.ccc.de\/RC3_2021:Startseite"
         }, 
         {
          "name":"mapName",
