@@ -334,6 +334,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"block",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
