@@ -152,19 +152,16 @@
          "imagewidth":306,
          "margin":1,
          "name":"Utilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Project Licence"
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Project Licence"
-                        }]
-                }, 
                 {
                  "id":3,
                  "properties":[
