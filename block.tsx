@@ -4,6 +4,7 @@
  <tile id="0">
   <properties>
    <property name="collides" type="bool" value="true"/>
+   <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
 </tileset>
