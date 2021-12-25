@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"bildungskloenschnack.json"
-        }
-    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -293,7 +285,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -353,12 +345,17 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
                         }]
                 }],
          "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }
