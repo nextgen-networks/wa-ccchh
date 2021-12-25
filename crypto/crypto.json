@@ -156,6 +156,27 @@
  "nextlayerid":12,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Die Cryptoengel  \u2022 \u00a9 2021  \u2022  Digitiale Selbstverteidigung"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"this map is part of subproject \"crypto\" of project \"Hamburg@rc3-World\" now\/here #rc3-2021"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/cryptoparty-hamburg.de\/"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Cryptoparty"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
