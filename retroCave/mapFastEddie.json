@@ -206,12 +206,6 @@
  "nextlayerid":15,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"Trademarks & logos belong to their respective owners \u2013 here \"Sirius Software\u201c (tm) \u2013 has not existed since 1984"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -247,6 +241,12 @@
          "imagewidth":1120,
          "margin":0,
          "name":"FastEddie",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Trademarks & logos belong to their respective owners \u2013 here \"Sirius Software\u201c (tm) \u2013 has not existed since 1984"
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,

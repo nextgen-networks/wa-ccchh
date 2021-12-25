@@ -70,12 +70,6 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"source: https:\/\/pixabay.com\/de\/photos\/tunnel-licht-grimmig-dunkel-kunst-6786462\/ \/\/ licence: https:\/\/pixabay.com\/de\/service\/license\/"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -88,6 +82,12 @@
          "imagewidth":1120,
          "margin":0,
          "name":"tilesHallOfLostBonusLifes_Shamus",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"source: https:\/\/pixabay.com\/de\/photos\/tunnel-licht-grimmig-dunkel-kunst-6786462\/ \/\/ licence: https:\/\/pixabay.com\/de\/service\/license\/"
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,

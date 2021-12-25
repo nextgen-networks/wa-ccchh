@@ -124,12 +124,6 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"source: https:\/\/www.c64-wiki.de\/index.php?title=Datei:Shamusbeginning.png \/\/ licence: http:\/\/www.gnu.org\/licenses\/fdl-1.3.html"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -165,6 +159,12 @@
          "imagewidth":1120,
          "margin":0,
          "name":"Shamus",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"source: https:\/\/www.c64-wiki.de\/index.php?title=Datei:Shamusbeginning.png \/\/ licence: http:\/\/www.gnu.org\/licenses\/fdl-1.3.html"
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,
