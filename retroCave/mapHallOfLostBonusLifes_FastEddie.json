@@ -135,6 +135,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"tilesUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Project Licence"
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
