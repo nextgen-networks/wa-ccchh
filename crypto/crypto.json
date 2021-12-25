@@ -157,7 +157,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -168,6 +168,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_expansion",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Project Licence"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -181,6 +187,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Hamburg_Tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCCHH 2020,2021"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -194,6 +206,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Hamburg-Pixelkarte-Transparent",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCCHH 2020,2021"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -207,6 +225,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"crypto_tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Cryptoparty Hamburg 2020,2021"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -224,6 +248,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }
