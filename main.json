@@ -376,6 +376,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Hamburg_Tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCCHH 2020,2021"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
