@@ -4,5 +4,5 @@
   <property name="tilesetCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <image source="tiles_neon_orange_ground_lines.png" width="256" height="256"/>
+ <image source="orange.png" width="256" height="256"/>
 </tileset>

@@ -7,13 +7,13 @@
   <property name="mapCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <tileset firstgid="1" source="pink_lines.tsx"/>
- <tileset firstgid="65" source="tiles_neon_dither.tsx"/>
- <tileset firstgid="74" source="green_lines.tsx"/>
- <tileset firstgid="138" source="cyan_lines.tsx"/>
+ <tileset firstgid="1" source="../tiles/neon/ground_lines/pink.tsx"/>
+ <tileset firstgid="65" source="../tiles/neon/dithered.tsx"/>
+ <tileset firstgid="74" source="../tiles/neon/ground_lines/green.tsx"/>
+ <tileset firstgid="138" source="../tiles/neon/ground_lines/cyan.tsx"/>
  <tileset firstgid="202" source="../worldExit.tsx"/>
- <tileset firstgid="206" source="../tiles/neon/neon_area_markers_orange.tsx"/>
- <tileset firstgid="215" source="red_lines.tsx"/>
+ <tileset firstgid="206" source="../tiles/neon/area_markers/orange.tsx"/>
+ <tileset firstgid="215" source="../tiles/neon/ground_lines/red.tsx"/>
  <group id="20" name="jitsi">
   <layer id="15" name="jitsiToilet1" width="93" height="32" locked="1">
    <properties>

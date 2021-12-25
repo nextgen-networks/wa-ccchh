@@ -7,21 +7,21 @@
   <property name="mapCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <tileset firstgid="1" source="pink_lines.tsx"/>
- <tileset firstgid="65" source="tiles_neon_dither.tsx"/>
- <tileset firstgid="74" source="orange_lines.tsx"/>
- <tileset firstgid="138" source="yellow_lines.tsx"/>
- <tileset firstgid="202" source="green_lines.tsx"/>
- <tileset firstgid="266" source="red_lines.tsx"/>
- <tileset firstgid="330" source="cyan_lines.tsx"/>
- <tileset firstgid="394" source="pulsing_circle_neon_pink.tsx"/>
- <tileset firstgid="402" source="pulsing_line_neon_pink.tsx"/>
- <tileset firstgid="410" source="pulsing_corner_neon_pink.tsx"/>
- <tileset firstgid="418" source="pulsing_dot_neon_pink.tsx"/>
- <tileset firstgid="426" source="pulsing_corner_90_neon_pink.tsx"/>
- <tileset firstgid="434" source="pulsing_corner_180_neon_pink.tsx"/>
- <tileset firstgid="442" source="pulsing_corner_270_neon_pink.tsx"/>
- <tileset firstgid="450" source="pulsing_line_90_neon_pink.tsx"/>
+ <tileset firstgid="1" source="../tiles/neon/ground_lines/pink.tsx"/>
+ <tileset firstgid="65" source="../tiles/neon/dithered.tsx"/>
+ <tileset firstgid="74" source="../tiles/neon/ground_lines/orange.tsx"/>
+ <tileset firstgid="138" source="../tiles/neon/ground_lines/yellow.tsx"/>
+ <tileset firstgid="202" source="../tiles/neon/ground_lines/green.tsx"/>
+ <tileset firstgid="266" source="../tiles/neon/ground_lines/red.tsx"/>
+ <tileset firstgid="330" source="../tiles/neon/ground_lines/cyan.tsx"/>
+ <tileset firstgid="394" source="../tiles/neon/animated/pulsing/circle/pink.tsx"/>
+ <tileset firstgid="402" source="../tiles/neon/animated/pulsing/line/pink.tsx"/>
+ <tileset firstgid="410" source="../tiles/neon/animated/pulsing/corner/pink.tsx"/>
+ <tileset firstgid="418" source="../tiles/neon/animated/pulsing/dot/pink.tsx"/>
+ <tileset firstgid="426" source="../tiles/neon/animated/pulsing/corner/pink_90.tsx"/>
+ <tileset firstgid="434" source="../tiles/neon/animated/pulsing/corner/pink_180.tsx"/>
+ <tileset firstgid="442" source="../tiles/neon/animated/pulsing/corner/pink_270.tsx"/>
+ <tileset firstgid="450" source="../tiles/neon/animated/pulsing/line/pink_90.tsx"/>
  <tileset firstgid="458" source="../tiles/rc3-21/vcr_overlay.tsx"/>
  <layer id="11" name="collision" width="32" height="32" visible="0" locked="1">
   <data encoding="csv">

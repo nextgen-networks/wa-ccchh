@@ -187,7 +187,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tiles_neon_pink_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/pink.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -206,7 +206,7 @@
         {
          "columns":3,
          "firstgid":65,
-         "image":"tiles_neon_dither.png",
+         "image":"..\/tiles\/neon\/dithered.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -235,7 +235,7 @@
         {
          "columns":8,
          "firstgid":74,
-         "image":"tiles_neon_orange_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/orange.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -254,7 +254,7 @@
         {
          "columns":8,
          "firstgid":138,
-         "image":"tiles_neon_yellow_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/yellow.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -273,7 +273,7 @@
         {
          "columns":8,
          "firstgid":202,
-         "image":"tiles_neon_green_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/green.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -292,7 +292,7 @@
         {
          "columns":8,
          "firstgid":266,
-         "image":"tiles_neon_red_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/red.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -311,7 +311,7 @@
         {
          "columns":8,
          "firstgid":330,
-         "image":"tiles_neon_cyan_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/cyan.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -330,7 +330,7 @@
         {
          "columns":8,
          "firstgid":394,
-         "image":"animated_tile_neon_pink_circle\/frames.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/circle\/pink.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -386,7 +386,7 @@
         {
          "columns":8,
          "firstgid":402,
-         "image":"animated_tile_neon_pink_line\/frames.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/line\/pink.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -442,7 +442,7 @@
         {
          "columns":8,
          "firstgid":410,
-         "image":"animated_tile_neon_pink_corner\/frames.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/corner\/pink.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -498,7 +498,7 @@
         {
          "columns":8,
          "firstgid":418,
-         "image":"animated_tile_neon_pink_dot\/frames.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/dot\/pink.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -554,7 +554,7 @@
         {
          "columns":1,
          "firstgid":426,
-         "image":"animated_tile_neon_pink_corner\/frames_90.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/corner\/pink_90.png",
          "imageheight":256,
          "imagewidth":32,
          "margin":0,
@@ -610,7 +610,7 @@
         {
          "columns":8,
          "firstgid":434,
-         "image":"animated_tile_neon_pink_corner\/frames_180.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/corner\/pink_180.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
@@ -666,7 +666,7 @@
         {
          "columns":1,
          "firstgid":442,
-         "image":"animated_tile_neon_pink_corner\/frames_270.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/corner\/pink_270.png",
          "imageheight":256,
          "imagewidth":32,
          "margin":0,
@@ -722,7 +722,7 @@
         {
          "columns":1,
          "firstgid":450,
-         "image":"animated_tile_neon_pink_line\/frames_90.png",
+         "image":"..\/tiles\/neon\/animated\/pulsing\/line\/pink_90.png",
          "imageheight":256,
          "imagewidth":32,
          "margin":0,

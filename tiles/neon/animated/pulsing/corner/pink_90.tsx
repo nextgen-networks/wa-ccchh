@@ -4,7 +4,7 @@
   <property name="tilesetCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <image source="animated_tile_neon_pink_corner/frames_90.png" width="32" height="256"/>
+ <image source="pink_90.png" width="32" height="256"/>
  <tile id="0">
   <animation>
    <frame tileid="0" duration="400"/>

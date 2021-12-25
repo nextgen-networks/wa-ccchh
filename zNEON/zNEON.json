@@ -293,7 +293,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tiles_neon_pink_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/pink.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -312,7 +312,7 @@
         {
          "columns":3,
          "firstgid":65,
-         "image":"tiles_neon_dither.png",
+         "image":"..\/tiles\/neon\/dithered.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -341,7 +341,7 @@
         {
          "columns":8,
          "firstgid":74,
-         "image":"tiles_neon_green_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/green.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -360,7 +360,7 @@
         {
          "columns":8,
          "firstgid":138,
-         "image":"tiles_neon_cyan_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/cyan.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -398,7 +398,7 @@
         {
          "columns":3,
          "firstgid":206,
-         "image":"..\/tiles\/neon\/neon_area_markers_orange.png",
+         "image":"..\/tiles\/neon\/area_markers\/orange.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -417,7 +417,7 @@
         {
          "columns":8,
          "firstgid":215,
-         "image":"tiles_neon_red_ground_lines.png",
+         "image":"..\/tiles\/neon\/ground_lines\/red.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,

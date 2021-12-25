@@ -4,5 +4,5 @@
   <property name="tilesetCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <image source="neon_area_markers_cyan.png" width="96" height="96"/>
+ <image source="cyan.png" width="96" height="96"/>
 </tileset>

@@ -4,7 +4,7 @@
   <property name="tilesetCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <image source="tiles_neon_dither.png" width="96" height="96"/>
+ <image source="dithered.png" width="96" height="96"/>
  <tile id="6">
   <properties>
    <property name="collides" type="bool" value="true"/>
