@@ -3,6 +3,12 @@
  <editorsettings>
   <export target="main.json" format="json"/>
  </editorsettings>
+ <properties>
+  <property name="mapCopyright" value="CCCHH 2020, 2021"/>
+  <property name="mapDescription" value="Wir sind der Chaos Computer Club der Hansestadt Hamburg. Bei uns handelt es sich um eine Gruppe von Menschen, die ein Interesse am kreativen Umgang mit Technik teilen. Unsere Gesprächsthemen und Projekte reichen von Soft- und Hardware zu Datenschutz und Netzpolitik. ( this map is partof project &quot;Hamburg@rc3-World&quot; now/here #rc3-2021 )"/>
+  <property name="mapLink" value="https://hamburg.ccc.de/"/>
+  <property name="mapName" value="main map Hamburg / CCCHH"/>
+ </properties>
  <tileset firstgid="1" source="hamburgkarte.tsx"/>
  <tileset firstgid="1025" source="Hamburg_Tiles.tsx"/>
  <tileset firstgid="1153" source="cmsnord/cmsnord.tsx"/>

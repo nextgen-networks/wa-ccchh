@@ -345,6 +345,27 @@
  "nextlayerid":24,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CCCHH 2020, 2021"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Wir sind der Chaos Computer Club der Hansestadt Hamburg. Bei uns handelt es sich um eine Gruppe von Menschen, die ein Interesse am kreativen Umgang mit Technik teilen. Unsere Gespr\u00e4chsthemen und Projekte reichen von Soft- und Hardware zu Datenschutz und Netzpolitik. ( this map is partof project \"Hamburg@rc3-World\" now/here #rc3-2021 )"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/hamburg.ccc.de\/"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"main map Hamburg \/ CCCHH"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
