@@ -5,7 +5,7 @@
  </editorsettings>
  <tileset firstgid="1" name="empty" tilewidth="32" tileheight="32" tilecount="1" columns="1">
   <properties>
-   <property name="tisesetCopyright" value="CC0"/>
+   <property name="tilesetCopyright" value="CC0"/>
   </properties>
   <image source="empty.png" width="32" height="32"/>
   <tile id="0">

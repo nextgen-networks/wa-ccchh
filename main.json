@@ -74,7 +74,7 @@
          "name":"empty",
          "properties":[
                 {
-                 "name":"tisesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
