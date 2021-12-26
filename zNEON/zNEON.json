@@ -478,6 +478,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"fire_green",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"author: djerun\nlicence: CC BY-SA 4.0"
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="fire_green" tilewidth="32" tileheight="32" tilecount="15" columns="15">
+ <properties>
+  <property name="tilesetCopyright">author: djerun
+licence: CC BY-SA 4.0</property>
+ </properties>
  <image source="green.png" width="480" height="32"/>
  <tile id="0">
   <properties>
