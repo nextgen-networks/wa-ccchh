@@ -4,7 +4,10 @@
   <export target="aumuehle.json" format="json"/>
  </editorsettings>
  <properties>
-  <property name="audioLoop" value="SpDrS60.mp3"/>
+  <property name="mapCopyright" value="CC-BY dl8xas"/>
+  <property name="mapDescription" value="Lokschuppen Aumühle des Verein Verkehrsamateure und Museumsbahn e.V. (VVM e.V.)"/>
+  <property name="mapLink" value="https://gitlab.hamburg.ccc.de/ccchh/rc3-world-ccchh/-/tree/master/aumuehle"/>
+  <property name="mapName" value="Aumühle"/>
  </properties>
  <tileset firstgid="1" source="../Aumuehle_Tiles.tsx"/>
  <tileset firstgid="101" source="../cija_expansion.tsx"/>
@@ -12,9 +15,6 @@
  <layer id="6" name="exitURL" width="91" height="42">
   <properties>
    <property name="exitUrl" value="../main.json#start_aumuehle"/>
-   <property name="mapCopyright" value="CC-0"/>
-   <property name="mapDescription" value="Lokschuppen Aumühle des Vereins Verkehrsamateure und Museumsbahn e.V. (VVM)"/>
-   <property name="mapName" value="Aumühle"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,645,645,645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -111,9 +111,6 @@
 </data>
  </layer>
  <layer id="13" name="collides" width="91" height="42">
-  <properties>
-   <property name="collides" type="bool" value="true"/>
-  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -161,7 +158,9 @@
  </layer>
  <layer id="15" name="Relaisgeklapper" width="91" height="42">
   <properties>
-   <property name="audioLoop" value="SpDrS60.mp3"/>
+   <property name="audioLoop" type="bool" value="true"/>
+   <property name="audioVolume" type="float" value="0.8"/>
+   <property name="playAudio" value="SpDrS60.mp3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -212,6 +211,7 @@
   <properties>
    <property name="openWebsite" value="https://vvm-museumsbahn.de/ix/ix-start/ix-start.php?id=13&amp;env=au&amp;pname=/wc/vvm-wc-au-hof&amp;pwidth=800"/>
    <property name="openWebsiteTrigger" value="onaction"/>
+   <property name="openWebsiteTriggerMessage" value="Press SPACE for the Webcam"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

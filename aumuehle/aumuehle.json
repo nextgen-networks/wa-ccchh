@@ -21,21 +21,6 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"..\/main.json#start_aumuehle"
-                }, 
-                {
-                 "name":"mapCopyright",
-                 "type":"string",
-                 "value":"CC-0"
-                }, 
-                {
-                 "name":"mapDescription",
-                 "type":"string",
-                 "value":"Lokschuppen Aum\u00fchle des Vereins Verkehrsamateure und Museumsbahn e.V. (VVM)"
-                }, 
-                {
-                 "name":"mapName",
-                 "type":"string",
-                 "value":"Aum\u00fchle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,12 +52,6 @@
          "id":13,
          "name":"collides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
@@ -88,6 +67,16 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.8
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"SpDrS60.mp3"
                 }],
@@ -113,6 +102,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE for the Webcam"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -254,9 +248,24 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"audioLoop",
+         "name":"mapCopyright",
          "type":"string",
-         "value":"SpDrS60.mp3"
+         "value":"CC-BY dl8xas"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Lokschuppen Aum\u00fchle des Verein Verkehrsamateure und Museumsbahn e.V. (VVM e.V.)"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/gitlab.hamburg.ccc.de\/ccchh\/rc3-world-ccchh\/-\/tree\/master\/aumuehle"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Aum\u00fchle"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
