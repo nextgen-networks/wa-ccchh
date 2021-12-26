@@ -21,6 +21,21 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"..\/main.json#start_aumuehle"
+                }, 
+                {
+                 "name":"mapCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }, 
+                {
+                 "name":"mapDescription",
+                 "type":"string",
+                 "value":"Lokschuppen Aum\u00fchle des Vereins Verkehrsamateure und Museumsbahn e.V. (VVM)"
+                }, 
+                {
+                 "name":"mapName",
+                 "type":"string",
+                 "value":"Aum\u00fchle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +87,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"SpDrS60.mp3"
                 }],
@@ -93,6 +108,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/vvm-museumsbahn.de\/ix\/ix-start\/ix-start.php?id=13&env=au&pname=\/wc\/vvm-wc-au-hof&pwidth=800"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -111,6 +131,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/vvm-museumsbahn.de\/rc3\/rc3.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -129,6 +154,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.vvm-museumsbahn.de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -224,7 +254,7 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"playAudioLoop",
+         "name":"audioLoop",
          "type":"string",
          "value":"SpDrS60.mp3"
         }],
@@ -240,6 +270,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Aumuehle_Tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -282,6 +318,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Hamburg-Pixelkarte-Transparent",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,

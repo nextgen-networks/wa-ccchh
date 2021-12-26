@@ -4,7 +4,7 @@
   <export target="aumuehle.json" format="json"/>
  </editorsettings>
  <properties>
-  <property name="playAudioLoop" value="SpDrS60.mp3"/>
+  <property name="audioLoop" value="SpDrS60.mp3"/>
  </properties>
  <tileset firstgid="1" source="../Aumuehle_Tiles.tsx"/>
  <tileset firstgid="101" source="../cija_expansion.tsx"/>
@@ -12,6 +12,9 @@
  <layer id="6" name="exitURL" width="91" height="42">
   <properties>
    <property name="exitUrl" value="../main.json#start_aumuehle"/>
+   <property name="mapCopyright" value="CC-0"/>
+   <property name="mapDescription" value="Lokschuppen Aumühle des Vereins Verkehrsamateure und Museumsbahn e.V. (VVM)"/>
+   <property name="mapName" value="Aumühle"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,645,645,645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -158,7 +161,7 @@
  </layer>
  <layer id="15" name="Relaisgeklapper" width="91" height="42">
   <properties>
-   <property name="playAudioLoop" value="SpDrS60.mp3"/>
+   <property name="audioLoop" value="SpDrS60.mp3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -208,6 +211,7 @@
  <layer id="11" name="Webcam Hof" width="91" height="42" locked="1">
   <properties>
    <property name="openWebsite" value="https://vvm-museumsbahn.de/ix/ix-start/ix-start.php?id=13&amp;env=au&amp;pname=/wc/vvm-wc-au-hof&amp;pwidth=800"/>
+   <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -257,6 +261,7 @@
  <layer id="14" name="Info Lehrstellwerk" width="91" height="42">
   <properties>
    <property name="openWebsite" value="https://vvm-museumsbahn.de/rc3/rc3.html"/>
+   <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -306,6 +311,7 @@
  <layer id="7" name="Website VVM" width="91" height="42" locked="1">
   <properties>
    <property name="openWebsite" value="https://www.vvm-museumsbahn.de"/>
+   <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
