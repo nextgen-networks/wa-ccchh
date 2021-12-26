@@ -2,6 +2,10 @@
 <tileset version="1.4" tiledversion="1.4.3" name="fire_green" tilewidth="32" tileheight="32" tilecount="15" columns="15">
  <image source="green.png" width="480" height="32"/>
  <tile id="0">
+  <properties>
+   <property name="tilesetCopyright">author: djerun
+licence: CC BY-SA 4.0</property>
+  </properties>
   <animation>
    <frame tileid="0" duration="200"/>
    <frame tileid="1" duration="200"/>
