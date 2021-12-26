@@ -164,6 +164,12 @@
          "id":18,
          "name":"exitFlohnetzwerk",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/digitalcourage\/main.json#enterFromCcchh"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":93,
