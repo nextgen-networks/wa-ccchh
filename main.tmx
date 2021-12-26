@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <editorsettings>
+  <export target="main.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="empty" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <properties>
+   <property name="tisesetCopyright" value="CC0"/>
+  </properties>
   <image source="empty.png" width="32" height="32"/>
   <tile id="0">
    <properties>
-    <property name="tilesetCopyright" value="CC0"/>
+    <property name="tilesetCopyright" value=""/>
    </properties>
   </tile>
  </tileset>
@@ -86,5 +92,5 @@
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 </data>
  </layer>
- <objectgroup id="3" name="floor"/>
+ <objectgroup id="3" name="floorLayer"/>
 </map>
