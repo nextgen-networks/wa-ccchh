@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="fire_green" tilewidth="32" tileheight="32" tilecount="15" columns="15">
+<tileset version="1.4" tiledversion="1.4.3" name="fire_green" tilewidth="32" tileheight="32" tilecount="16" columns="16">
  <properties>
   <property name="tilesetCopyright">author: djerun
 licence: CC BY-SA 4.0</property>
  </properties>
- <image source="green.png" width="480" height="32"/>
+ <image source="green.png" width="512" height="32"/>
  <tile id="0">
   <animation>
    <frame tileid="0" duration="200"/>
@@ -22,6 +22,7 @@ licence: CC BY-SA 4.0</property>
    <frame tileid="12" duration="200"/>
    <frame tileid="13" duration="200"/>
    <frame tileid="14" duration="200"/>
+   <frame tileid="15" duration="200"/>
   </animation>
  </tile>
 </tileset>
