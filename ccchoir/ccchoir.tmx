@@ -3,6 +3,11 @@
  <editorsettings>
   <export target="ccchoir.json" format="json"/>
  </editorsettings>
+ <properties>
+  <property name="mapCopyright" value="CC-0"/>
+  <property name="mapDescription" value="Treffpunkt für CCChoir"/>
+  <property name="mapName" value="Elbphilharmonie"/>
+ </properties>
  <tileset firstgid="1" source="../cija_expansion.tsx"/>
  <tileset firstgid="1996" source="../Hamburg_Tiles.tsx"/>
  <tileset firstgid="2124" source="Hamburg-Pixelkarte-Transparent.tsx"/>
