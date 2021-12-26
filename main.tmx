@@ -707,7 +707,7 @@
   </layer>
   <layer id="21" name="door_lobby" width="32" height="32" locked="1">
    <properties>
-    <property name="exitUrl" value="world://lobby"/>
+    <property name="exitUrl" value="world://lobby/punchcard.json#start_CCCHH"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
