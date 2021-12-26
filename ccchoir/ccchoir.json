@@ -191,6 +191,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Hamburg_Tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -204,6 +210,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Hamburg-Pixelkarte-Transparent",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -217,6 +229,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"ccchoir_tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
