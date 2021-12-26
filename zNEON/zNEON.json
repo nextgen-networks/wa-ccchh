@@ -550,13 +550,7 @@
                          "duration":200,
                          "tileid":14
                         }],
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"author: djerun\nlicence: CC BY-SA 4.0"
-                        }]
+                 "id":0
                 }],
          "tilewidth":32
         }, 

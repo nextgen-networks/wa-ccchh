@@ -6,10 +6,6 @@ licence: CC BY-SA 4.0</property>
  </properties>
  <image source="green.png" width="480" height="32"/>
  <tile id="0">
-  <properties>
-   <property name="tilesetCopyright">author: djerun
-licence: CC BY-SA 4.0</property>
-  </properties>
   <animation>
    <frame tileid="0" duration="200"/>
    <frame tileid="1" duration="200"/>
