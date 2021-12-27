@@ -234,7 +234,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"bbb:\/\/ccchh-groer-raum"
+                 "value":"bbb:\/\/CCCHH\/ccchh-groer-raum"
                 }],
          "type":"tilelayer",
          "visible":true,
